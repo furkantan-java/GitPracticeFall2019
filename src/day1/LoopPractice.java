@@ -6,6 +6,7 @@ public class LoopPractice {
         for (int i = 0; i <10 ; i++) {
             System.out.println("Counter :: " + i);
             System.out.println("##########");
+            System.out.println("12432423");
         }
     }
 }
